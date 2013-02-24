@@ -1,10 +1,6 @@
-from math import sqrt
-from string import split
 import random
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
-import numpy as np
-from matplotlib.mlab import stineman_interp
 
 
 __author__ = 'Jervis'
