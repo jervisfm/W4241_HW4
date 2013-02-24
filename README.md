@@ -10,10 +10,9 @@ This project contains code that visualizes the quality of a pseudorandom number 
 
 Dependencies
 ===========
-* Matpotlib
+* Matpotlib: Please see this guide[http://matplotlib.org/users/installing.html] on instruction for installing Matplotlib
 
 How to Run
 ==========
-
-`$ python main.py`
+`$ python graph.py`
 
