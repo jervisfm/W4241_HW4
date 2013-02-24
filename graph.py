@@ -37,7 +37,7 @@ def plot_random_points():
     plt.ylabel('Y')
     plt.plot(x_points, y_points, 'ro')
     plt.show()
-    fig.savefig('test3.png')
+    fig.savefig('graph.png')
 
 
 if __name__ == '__main__':
